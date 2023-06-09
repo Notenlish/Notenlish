@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notenlish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🌐 Feel free to reach out to me via Discord at N0t3nl1sh#2617, or visit my website to learn more about me and my work.
+🌐 Feel free to reach out to me via Discord at N0t3nl1sh#2617, or visit [my website](https://notenlish.github.io/) to learn more about me and my work.
