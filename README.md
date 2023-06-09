@@ -1,5 +1,7 @@
 👋 Hey there, I'm Noten!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 🧑‍🎓 As a 15-year-old high school student, I have a passion for AI, game development, and web development. I'm currently interning as a developer at Onchat and as a Front-End developer at Justhink, while also working on personal projects. I'm always striving to improve my skills and become an even better developer! 😎
 
 📖 I have an intermediate level of proficiency in Python, HTML, and CSS, and I'm currently learning JavaScript. 
