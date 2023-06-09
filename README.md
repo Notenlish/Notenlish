@@ -6,6 +6,6 @@
 
 📖 I have an intermediate level of proficiency in Python, HTML, and CSS, and I'm currently learning JavaScript. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notenlish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Notenlish&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 Feel free to reach out to me via Discord at N0t3nl1sh#2617, or visit [my website](https://notenlish.github.io/) to learn more about me and my work.
