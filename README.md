@@ -13,4 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notenlish&layout=donut&theme=radical&hide_border=true" height="200" alt="stats">
 </div>
 
-🌐 Feel free to reach out to me via Discord at Notenlish#2617, or visit [my website](https://notenlish.github.io/) to learn more about me and my work.
+🌐 Feel free to reach out to me via Discord at `notenlish`, or visit [my website](https://notenlish.github.io/) to learn more about me and my work.
