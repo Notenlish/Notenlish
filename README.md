@@ -7,7 +7,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notenlish&theme=radical&hide_border=true" height="160">
 </div>
 
-📖 I have an intermediate level of proficiency in Python, HTML, and CSS, and I'm currently learning JavaScript. 
+📖 I have an intermediate level of proficiency in Python, HTML, and CSS, and I'm currently learning JavaScript & SCSS. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Notenlish&layout=donut&theme=radical&hide_border=true" height="200" alt="stats">
