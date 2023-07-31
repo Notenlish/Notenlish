@@ -1,6 +1,6 @@
 👋 Hey there, I'm Noten!
 
-🧑‍🎓 As a 15-year-old high school student, I have a passion for AI, game development, and web development. I'm currently interning as a developer at Onchat and as a Front-End developer at Justhink, while also working on personal projects. I'm always striving to improve my skills and become an even better developer! 😎
+🧑‍🎓 As a 16-year-old high school student, I have a passion for AI and web development. I'm currently interning at Yediyıldız Venture Office while also working on personal projects. I'm always striving to improve my skills and become an even better developer! 😎
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160" alt="stats">
