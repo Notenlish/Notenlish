@@ -3,7 +3,7 @@
 🧑‍🎓 As a 16-year-old high school student, I have a passion for AI and web development. I'm currently interning at Yediyıldız Venture Office while also working on personal projects. I'm always striving to improve my skills and become an even better developer! 😎
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" height="160" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical&include_all_commits=false&hide_border=true" height="160" alt="stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notenlish&theme=radical&hide_border=true" height="160">
 </div>
 
