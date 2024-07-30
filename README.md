@@ -1,4 +1,4 @@
-👋 Hey there, I'm Noten!
+👋 Hey there, I'm Notenlish!
 
 🧑‍🎓 I like doing gamedev & some other stuff.
 
