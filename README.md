@@ -2,8 +2,6 @@
 
 🧑‍🎓 I like doing gamedev & some other stuff.
 
-I'm a contributor to pygame-ce
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical&include_all_commits=false&hide_border=true" height="160" alt="stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Notenlish&theme=radical&hide_border=true" height="160">
