@@ -1,6 +1,4 @@
-👋 Hey there, I'm Notenlish!
-
-🧑‍🎓 I like doing gamedev & some other stuff.
+I'm Notenlish. I do gamedev & sometimes webdev. that's it.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Notenlish&show_icons=true&theme=radical&include_all_commits=false&hide_border=true" height="160" alt="stats">
