@@ -1,3 +1,3 @@
 I'm Notenlish. I do gamedev, webdev and some other stuff. that's it.
 
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2564&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=8)
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=2564&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&cache_seconds=0&langs_count=8)
