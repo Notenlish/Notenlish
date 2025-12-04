@@ -4,29 +4,29 @@ I also have a website: https://notenlish.pages.dev/
 <br></br>
 
 ## Technologies
-- Languages
+- **Languages**
   - Python
   - Javascript and Typescript
 
-- Frameworks
+- **Frameworks**
   - Django
   - Flask & Fast Api
   - Next.js
 
-- Webscraping
+- **Web Scraping**
   - Beautiful Soup
 
-- Frontend
+- **Frontend**
   - Html and CSS
   - SCSS
   - Tailwind CSS
 
-- Tooling
+- **Tooling**
   - Git
   - Linux
   - Bash
 
-- Sql
+- **Sql**
   - Sqlite
 
-- Socket Programming
+- **Socket Programming**
