@@ -1,6 +1,7 @@
 I like web development, game development and programming in general. Feel free to check out my projects below.
 
 I also have a website: https://notenlish.pages.dev/
+try this instead if pages.dev doesnt work: https://notenlish.vercel.app/
 
 ## Technologies
 - **Languages**: Python, Typescript
