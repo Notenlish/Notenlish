@@ -2,8 +2,6 @@ I like web development, game development and programming in general. Feel free t
 
 I also have a website: https://notenlish.pages.dev/
 
-If you are in Turkey and can't access the site try this instead: https://notenlish.vercel.app/
-
 ## Technologies
 - **Languages**: Python, Typescript
 - **Frameworks**: Django, Flask & Fast Api, Next.js
