@@ -1,6 +1,6 @@
 I like web development, game development and programming in general. Feel free to check out my projects below.
 
-I also have a website: https://notenlish.pages.dev/
+I also have a website: https://notenlish.com/
 
 ## Technologies
 - **Languages**: Python, Typescript
